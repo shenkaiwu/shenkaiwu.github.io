@@ -7,8 +7,7 @@ first_name: Shenkai
 middle_name: ""
 last_name: Wu
 email: shenkaiwu@brandeis.edu
-description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+description: ""
 footer_text: ""
 
 keywords: Corporate Finance, Cybersecurity, Annuity # add your own keywords or leave empty
