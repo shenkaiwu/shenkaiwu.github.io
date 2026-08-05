@@ -5,8 +5,8 @@ permalink: /
 subtitle: PhD Candidate in International Economics and Finance at Brandeis University
 
 profile:
-  align: right
-  image: prof_pic.jpg
+  align: left
+  image: Shenkai.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>PhD candidate at Brandeis University</p>
