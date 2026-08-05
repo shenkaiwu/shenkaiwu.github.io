@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>PhD student at Brandeis University</p>
+    <p>PhD candidate at Brandeis University</p>
     <p>Waltham, Massachusetts</p>
 
 news: true # includes a list of news items
