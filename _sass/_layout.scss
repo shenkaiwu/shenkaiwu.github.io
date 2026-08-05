@@ -51,3 +51,33 @@ body.sticky-bottom-footer {
 *****************************************************************************/
 
 // TODO: redefine projects layout.
+
+.home-intro{
+    display:flex;
+    align-items:flex-start;
+    gap:3rem;
+    margin-top:2rem;
+}
+
+.home-intro .profile{
+    width:320px;
+    flex-shrink:0;
+}
+
+.home-intro .bio{
+    flex:1;
+}
+
+.home-intro .bio p:first-child{
+    margin-top:0;
+}
+
+@media (max-width: 768px){
+    .home-intro{
+        flex-direction:column;
+    }
+
+    .home-intro .profile{
+        width:100%;
+    }
+}
