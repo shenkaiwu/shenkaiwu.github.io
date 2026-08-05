@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: Home
 title: Home
 permalink: /
 subtitle: PhD Candidate in International Economics and Finance at Brandeis University
