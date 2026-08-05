@@ -1,8 +1,8 @@
 ---
 layout: about
-title: about
+title: Home
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: PhD Candidate in International Economics and Finance at Brandeis University
 
 profile:
   align: right
