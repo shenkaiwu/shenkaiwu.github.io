@@ -19,7 +19,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hello! My name is Shenkai Wu, a PhD candidate in International Economics and Finance. I am doing research on corporate finance, cybersecurity 
-and annuity. I expect to graduate in May 2027.
+Hello! My name is Shenkai Wu, a PhD candidate in International Economics and Finance at Brandeis University. My research interests are corporate finance, cybersecurity and annuity. I am now doing research on whether companies are more likely to get a cyber attack after they receive a government contract.
 
-I am 
+I have internship experience in investment banking, private equity and auditing. My duties included processing data and writing financial research reports.
+
+I am expected to graduate in May 2027.

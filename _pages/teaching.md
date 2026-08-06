@@ -2,11 +2,19 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: Materials for courses you taught. Replace this text with your description.
 nav: true
-nav_order: 6
+nav_order: 3
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+<h4 style="color:#003366;">Adjunct Professor</h4>
+<ul>
+<li>Financial Management, Summer 2024, Summer 2025, Summer 2026</li>
+</ul>
 
-Organize your courses by years, topics, or universities, however you like!
+<h4 style="color:#003366;">Teaching Assistant</h4>
+<ul>
+<li>Introduction to Macroeconomics, Spring 2026</li>
+<li>Transfer Pricing, Fall 2023, Fall 2024, Fall 2025</li>
+<li>Options & Derivatives, Fall 2025</li>
+<li>Econometrics, Spring 2024</li>
+</ul>
