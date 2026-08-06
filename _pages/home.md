@@ -19,5 +19,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hello! My name is Shenkai Wu, and this is my page. I am doing research on corporate finance, cybersecurity 
+Hello! My name is Shenkai Wu, a PhD candidate in International Economics and Finance. I am doing research on corporate finance, cybersecurity 
 and annuity. I expect to graduate in May 2027.
+
+I am 
