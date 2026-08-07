@@ -27,6 +27,8 @@ I am expected to graduate in May 2027.
 
 ---
 
+<div class="research">
+
 <h2>Research</h2>
 
 <h3>Is Equity Return Affected by Country or by Industry?</h3>
