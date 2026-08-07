@@ -38,6 +38,13 @@ body.sticky-bottom-footer {
   }
 }
 
+.profile .more-info {
+    font-family: inherit;
+    font-size: 0.95rem;
+    line-height: 1.5;
+    margin-top: 1rem;
+}
+
 // TODO: redefine content layout.
 
 /******************************************************************************
@@ -71,6 +78,7 @@ body.sticky-bottom-footer {
 
 .home-intro .bio{
     flex:1;
+    font-size:1.2rem;
 }
 
 .home-intro .bio p:first-child{
@@ -82,9 +90,9 @@ body.sticky-bottom-footer {
         flex-direction:column;
     }
 
-    .home-intro .profile{
-        width:100%;
-    }
+.home-intro .profile{
+    width:100%;
+  }
 }
 
 .profile .contact-icons {
