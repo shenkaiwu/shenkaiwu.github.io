@@ -34,8 +34,7 @@ body.sticky-bottom-footer {
 // Profile
 .profile {
   img {
-    width: 60%;
-    height: auto;
+    width: 100%;
   }
 }
 
@@ -63,6 +62,11 @@ body.sticky-bottom-footer {
 .home-intro .profile{
     width:320px;
     flex-shrink:0;
+}
+
+.home-intro .profile img {
+    width: 180px;
+    height: auto;
 }
 
 .home-intro .bio{
