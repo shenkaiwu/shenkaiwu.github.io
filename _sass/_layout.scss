@@ -74,10 +74,6 @@ body.sticky-bottom-footer {
     font-size:1.2rem;
 }
 
-.home-intro .bio p:first-child{
-    margin-top:0;
-}
-
 @media (max-width: 768px){
     .home-intro{
         flex-direction:column;
