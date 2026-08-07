@@ -25,7 +25,7 @@ I have internship experience in investment banking, private equity and auditing.
 
 I am expected to graduate in May 2027.
 
-<div class="research">
+---
 
 <h2>Research</h2>
 
