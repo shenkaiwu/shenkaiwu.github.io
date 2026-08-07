@@ -24,15 +24,20 @@ research: |
   <h3>Is Equity Return Affected by Country or by Industry?</h3>
 
   <p>
-  This paper investigates whether equity returns are driven primarily by
-  country-level or industry-level factors.
+  Country and industry affiliation are commonly used to account for the relative performance of stocks. These two
+  factors usually co-moves and mutually contributes to the equity returns. This paper extracts the effect of 15 country and 11
+  industry dynamics and calculates the relative importance of them on the stock return volatility. Results are presented as ratios,
+  which is country or industry related volatility to the total volatility. In the latest data, country and industry dynamics both
+  account for half of the volatility. The narrowing gap in the past twenty years between these two factors implies the achievement
+  of globalization.
   </p>
 
-  <h3>Cybersecurity Risk and Government Contracts</h3>
+  <h3>State Deals, Hacker Meals: Do Government Contractors Attract the Attention of Cyber Threat Actors?</h3>
 
   <p>
-  This paper studies whether firms become more likely to experience cyber
-  attacks after receiving government contracts.
+  This paper aims at solving the problem: if a company receives a government contract, is it more likely to get a
+  cyber attack? We conducted a DiD analysis on cyber attack data to test whether firms experience more attacks after receiving
+  their first government contract, compared with their peer firms.
   </p>
 
 ---
