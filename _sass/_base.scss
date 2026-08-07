@@ -194,6 +194,7 @@ ul.task-list input[type="checkbox"] {
 
 .profile {
   width: 100%;
+  font-weight: bold;
 
   .more-info {
     margin-bottom: 5px;
@@ -285,7 +286,6 @@ ul.task-list input[type="checkbox"] {
 
   .navbar-brand {
     color: var(--global-text-color);
-    font-weight: 500;
   }
 
   .navbar-nav .nav-item .nav-link {
