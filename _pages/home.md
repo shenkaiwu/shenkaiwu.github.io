@@ -32,7 +32,11 @@ research: |
   of globalization.
   </p>
 
-  <h3>State Deals, Hacker Meals: Do Government Contractors Attract the Attention of Cyber Threat Actors?</h3> <p class="authors"> (with Jiaxing Huang, Aldo Musacchio, Debarshi Nandy, Anna Scherbina) </p>
+  <h3>State Deals, Hacker Meals: Do Government Contractors Attract the Attention of Cyber Threat Actors?
+  <span class="authors">
+  (with Jiaxing Huang, Aldo Musacchio, Debarshi Nandy, Anna Scherbina)
+  </span>
+  </h3>
 
   <p>
   This paper aims at solving the problem: if a company receives a government contract, is it more likely to get a
