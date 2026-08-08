@@ -7,7 +7,7 @@ nav_order: 2
 ---
 
 <iframe
-    src="/assets/pdf/CV.pdf"
+    src="/assets/pdf/Shenkai_Wu_CV.pdf"
     width="100%"
     height="900px"
     style="border:none;">
@@ -15,5 +15,5 @@ nav_order: 2
 
 <p style="margin-top:20px;">
 If the PDF does not display, you can
-<a href="/assets/pdf/CV.pdf" target="_blank">download it here</a>.
+<a href="/assets/pdf/Shenkai_Wu_CV.pdf" target="_blank">download it here</a>.
 </p>
