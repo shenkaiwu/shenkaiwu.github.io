@@ -13,7 +13,9 @@ nav: false
 }
 
 .authors {
+  font-size: 1rem;
   color: #003478 !important;
+  font-weight: 400;
 }
 </style>
 
