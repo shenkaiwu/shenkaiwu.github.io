@@ -8,8 +8,7 @@ nav_order: 3
 
 <h4>
   <a href="{{ '/research/equity_return/' | relative_url }}"
-     target="_blank"
-     rel="noopener">
+     style="font-weight: 600;">
     Is Equity Return Affected by Country or by Industry?
   </a>
 </h4>
@@ -21,8 +20,7 @@ Country and industry affiliation are commonly used to account for the relative p
 
 <h4>
   <a href="{{ '/research/government_contracts_cybersecurity/' | relative_url }}"
-     target="_blank"
-     rel="noopener">
+     style="font-weight: 600;">
     State Deals, Hacker Meals: Do Government Contractors Attract the Attention of Cyber Threat Actors?
   </a>
 </h4>
