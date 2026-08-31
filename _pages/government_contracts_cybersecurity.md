@@ -9,7 +9,11 @@ nav: false
 .post-title {
   font-size: 2rem !important;
   color: #003478 !important;
-  font-weight: 600 !important;
+  font-weight: 500 !important;
+}
+
+.authors {
+  color: #003478 !important;
 }
 </style>
 

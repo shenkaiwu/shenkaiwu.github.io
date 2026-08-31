@@ -6,6 +6,12 @@ nav: true
 nav_order: 3
 ---
 
+<style>
+.authors {
+  color: #003478 !important;
+}
+</style>
+
 <h4>
   <a href="{{ '/research/equity_return/' | relative_url }}"
      style="font-weight: 600;">
