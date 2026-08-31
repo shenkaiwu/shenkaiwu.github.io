@@ -5,6 +5,14 @@ title: "State Deals, Hacker Meals: Do Government Contractors Attract the Attenti
 nav: false
 ---
 
+<style>
+.post-title {
+  font-size: 2rem !important;
+  color: #003478 !important;
+  font-weight: 600 !important;
+}
+</style>
+
 <p class="authors">
 (with Jiaxing Huang, Aldo Musacchio, Debarshi Nandy, Anna Scherbina)
 </p>
