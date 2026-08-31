@@ -46,7 +46,7 @@ research: |
 
 ---
 
-Hello! My name is Shenkai Wu, a PhD candidate in International Economics and Finance at Brandeis University. My research interests are corporate finance, cybersecurity and annuity. I am now doing research on whether companies are more likely to get more cyber attacks after they receive a government contract.
+Hello! My name is Shenkai Wu, a PhD candidate in International Economics and Finance at Brandeis University. My research interests are international finance, cybersecurity, asset pricing and annuity. I am now doing research on whether companies are more likely to get more cyber attacks after they receive a government contract.
 
 I have internship experience in investment banking, private equity and auditing. My duties included processing data and writing financial research reports.
 
