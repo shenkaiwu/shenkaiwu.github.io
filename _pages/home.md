@@ -39,7 +39,7 @@ research: |
   </h3>
 
   <p>
-  Firms improve financial transparency to win government contracts, but this increased disclosure also heighten the firm’s visibility to external actors, including adversaries. We used SecureBERT and LLM API to classify historical cyber attack cases. Then we conducted a staggered DiD analysis on cyber attack data to test whether firms experience more attacks after receiving their first government contract, compared with their peer firms.
+  Firms improve financial transparency to win government contracts, but this increased disclosure also heightens the firm’s visibility to external actors, including adversaries. We used SecureBERT and LLM API to classify historical cyber attack cases. Then we conducted a staggered DiD analysis on cyber attack data to test whether firms experience more attacks after receiving their first government contract, compared with their peer firms.
   </p>
 
 ---
