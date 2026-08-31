@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /research/government-contracts-cybersecurity/
+permalink: /research/government_contracts_cybersecurity/
 title: "State Deals, Hacker Meals: Do Government Contractors Attract the Attention of Cyber Threat Actors?"
 nav: false
 ---
@@ -10,6 +10,5 @@ nav: false
 </p>
 
 <p>
-This paper examines whether firms experience more cyber attacks after receiving
-their first government contract compared with peer firms.
+Firms improve financial transparency to win government contracts, but this increased disclosure also heighten the firm’s visibility to external actors, including adversaries. We used SecureBERT and LLM API to classify historical cyber attack cases. Then we conducted a staggered DiD analysis on cyber attack data to test whether firms experience more attacks after receiving their first government contract, compared with their peer firms.
 </p>

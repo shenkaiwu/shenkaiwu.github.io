@@ -39,9 +39,7 @@ research: |
   </h3>
 
   <p>
-  This paper aims at solving the problem: if a company receives a government contract, is it more likely to get a
-  cyber attack? We conducted a DiD analysis on cyber attack data to test whether firms experience more attacks after receiving
-  their first government contract, compared with their peer firms.
+  Firms improve financial transparency to win government contracts, but this increased disclosure also heighten the firm’s visibility to external actors, including adversaries. We used SecureBERT and LLM API to classify historical cyber attack cases. Then we conducted a staggered DiD analysis on cyber attack data to test whether firms experience more attacks after receiving their first government contract, compared with their peer firms.
   </p>
 
 ---

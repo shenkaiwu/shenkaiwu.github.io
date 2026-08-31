@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /research/equity-return/
+permalink: /research/equity_return/
 title: Is Equity Return Affected by Country or by Industry?
 nav: false
 ---
