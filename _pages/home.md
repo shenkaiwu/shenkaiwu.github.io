@@ -25,5 +25,3 @@ Hello! My name is Shenkai Wu, a PhD candidate in International Economics and Fin
 I have internship experience in investment banking, private equity and auditing. My duties included processing data and writing financial research reports.
 
 I am expected to graduate in May 2027.
-
-google-site-verification=oF-8SnJq6Qu198CV834SCo4zXZx1aeVlAi1pERWrYsU
