@@ -26,3 +26,4 @@ I have internship experience in investment banking, private equity and auditing.
 
 I am expected to graduate in May 2027.
 
+google-site-verification=oF-8SnJq6Qu198CV834SCo4zXZx1aeVlAi1pERWrYsU
