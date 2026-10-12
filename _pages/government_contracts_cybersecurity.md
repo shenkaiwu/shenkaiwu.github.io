@@ -31,5 +31,5 @@ Firms improve financial transparency to win government contracts, but this incre
    href="{{ '/assets/pdf/Cybersecurity_Project.pdf' | relative_url }}"
    target="_blank"
    rel="noopener">
-  Download Paper
+  Download Slides
 </a>
