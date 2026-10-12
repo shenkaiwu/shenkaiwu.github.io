@@ -40,3 +40,14 @@ Country and industry affiliation are commonly used to account for the relative p
 <p>
 Firms improve financial transparency to win government contracts, but this increased disclosure also heightens the firm’s visibility to external actors, including adversaries. We used SecureBERT and LLM API to classify historical cyber attack cases. Then we conducted a staggered DiD analysis on cyber attack data to test whether firms experience more attacks after receiving their first government contract, compared with their peer firms.
 </p>
+
+<h4>
+  <a href="{{ '/research/charitable_gift_annuity/' | relative_url }}"
+     style="font-weight: 500;">
+    Optimal Level of University Fundraising Through Charitable Gift Annuity
+  </a>
+</h4>
+
+<p>
+This paper examines the financial risks associated with charitable gift annuities (CGAs), through which universities receive donations in exchange for lifetime payments to donors. Poor investment performance may deplete the assets backing these annuities, requiring universities to draw on other financial resources to fulfill their payment obligations. The study aims to identify an optimal CGA-to-endowment ratio that balances the fundraising benefits of CGAs against the risks arising from lifetime payment commitments, with implications for university endowment management and planned-giving policies.
+</p>
